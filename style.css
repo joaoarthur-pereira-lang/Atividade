@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.blue {
+    background-color: blue;
+    padding: 20px;
+}
+
+.yellow{
+     background-color: yellow;
+     padding: 20px;
+     margin: 10px;
+
+}
+
+.flex{
+    display: flex;
+}
