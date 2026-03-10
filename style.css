@@ -28,4 +28,11 @@ body {
 
 .flex{
     display: flex;
+
+}
+
+.dividir{
+    background-color: yellow;
+    padding-bottom: 70px;
+
 }
