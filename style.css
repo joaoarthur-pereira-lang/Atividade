@@ -15,12 +15,12 @@ body {
      margin: 10px;
 
 }
-.red{
+.lado{
     background-color: yellow;
     padding-left: 80px;
 }
 
-.green{
+.baixo{
     background-color: yellow;
     padding-bottom: 80px;
 
@@ -31,7 +31,7 @@ body {
 
 }
 
-.dividir{
+.diminuir{
     background-color: yellow;
     padding-bottom: 70px;
 
